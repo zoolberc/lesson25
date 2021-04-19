@@ -22,6 +22,5 @@ public class MyTest {
 
     @Test
     public void test1() {
-        driver.get("https://vk.com");
     }
 }
