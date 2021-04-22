@@ -24,5 +24,6 @@ public class MyTest {
     public void test1() {
         System.out.println("Hello Jenkins");
         System.out.println("Hello Jenkins");
+        System.out.println("Hello Jenkins");
     }
 }
